@@ -2,7 +2,10 @@
 
 This repository contains 18S rRNA sequences from the SILVA 138 release, nematode 18S rRNA published in GenBank, and some additional nematode 18S rRNA sequences produced in our lab. Taxonomic ranks for nematodes were fixed accoding to WoRMS database. Files include QIIME2 format (i.e., qza files) and orginal text files for sequences (.fna) and taxonomy (.tsv). Large files were zipped to reduce their size.
 
-  ## 2024-05-MeioDB-v1
+## 2025-05-MeioDB-v2
+Include additional nematode sequences from GenBank from 2024-06-01 to 2025-03-10
+  
+## 2024-05-MeioDB-v1
 **This is not the most updated version – please refer to the most recent release.**
 
 MeioDB v1 is the first version of the Bik lab group’s curated SILVA database, containing long (1,200 bp) and short-length (250bp-700bp) 18S rRNA reference sequences for a broad range of eukaryotes, with particular emphasis on marine nematodes (Nematoda).
@@ -19,5 +22,3 @@ References:
 4. WoRMS Editorial Board (2024). World Register of Marine Species. Available from https://www.marinespecies.org at VLIZ. Accessed 2024-05-01. doi:10.14284/170
 5. De Santiago, A., Pereira, T. J., Ferrero, T. J., Barnes, N., Lallias, D., Creer, S., & Bik, H. M. (2025). Persistent gaps and errors in reference databases impede ecologically meaningful taxonomy assignments in 18S rRNA studies: A case study of terrestrial and marine nematodes. Environmental DNA (Hoboken, N.J.), 7(2), e70080.
 
-  ## 2025-05-MeioDB-v2
-  Include additional nematode sequences from GenBank from 2024-06-01 to 2025-03-10
