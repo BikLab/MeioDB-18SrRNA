@@ -7,7 +7,7 @@ MeioDB v2 is the second version of the Bik lab group’s curated SILVA database,
 
 MeioDB v2 builds on MeioDB v1 with additional short (250bp-700bp) reference sequences for Nematoda (primarily terrestrial nematodes) added from GenBank.
 
-Additional sequences added: 2026-02-09-additional-sequences-added-v2.csv
+Additional sequences added: `documentation/2026-02-09-additional-sequences-added-v2.csv`
 
 ## 2024-05-MeioDB-v1
 **This is not the most updated version – please refer to the most recent release.**
